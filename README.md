@@ -298,3 +298,8 @@ ui/
 tools/make_icon.py      Draws the app icon
 build.spec              PyInstaller build
 ```
+
+## License
+
+[GNU General Public License v3.0](LICENSE). The app uses PyQt6, which is licensed under the GPL v3;
+libtorrent is BSD-licensed.
